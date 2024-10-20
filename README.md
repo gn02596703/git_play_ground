@@ -1,2 +1,2 @@
 # git_play_ground
-A place to try and learn git related operation
+A place to try and test git related operation
